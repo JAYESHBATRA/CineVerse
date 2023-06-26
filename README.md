@@ -16,8 +16,7 @@ To set up CineVerse locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/JAYESHBATRA/CineVerse.git`
 2. Navigate to the project directory: `cd CineVerse`
 3. Install the required dependencies: `npm install`
-4. Set up the database connection by updating the configuration file.
-5. Start the server: `npm start`
+4. Start the server: `npm start`
 
 ## Contributing
 
